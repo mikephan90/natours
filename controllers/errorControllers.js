@@ -11,7 +11,7 @@ const handleJWTExpired = () => new AppError("Your token has expired. Please log 
 
 const handleDuplicateFieldsDB = (err) => {
 	const value = err.errmsg.match(/["'])(\\?.)*\1/);
-	console.log(value);
+
 	const message = `Duplicate field value: ${value}. Please use another value.`;
 
 	return new AppError(message, 400);
