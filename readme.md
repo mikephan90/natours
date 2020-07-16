@@ -1,4 +1,4 @@
-# Natours Application
+# Natours
 
 Natours is a sample web application, tour booking website that is an exercise in creating a web API from scratch. This Node.js based API server acts to communicate between the front-end and back-end. Utilizing Express and mongoose, the server interacts with the MongoDB server and performs CRUD operations that will then be seen client side. The application was then deployed for preview using Heroku.
 
