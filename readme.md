@@ -6,7 +6,9 @@ The documentation of the API can be found here:
 
 [Natours API](https://documenter.getpostman.com/view/2534607/T1DiGg6q)
 
-Web application link: [Natours](https://natours-mp90.herokuapp.com/)
+Web application link: 
+
+[Natours](https://natours-mp90.herokuapp.com/)
 
 Technologies:
   * Node.js
